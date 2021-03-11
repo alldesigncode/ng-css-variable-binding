@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ng-css-variable-binding"
+  "defaultProject": "ng-css-variable-binding",
+  "cli": {
+    "analytics": false
+  }
 }
